@@ -1,4 +1,4 @@
-# Newton-rings-app
+# ML-Based Newton’s Rings Analysis Tool with Real-Time Data Visualization
 # Newton's Rings ML Analyzer
 
 This project analyzes Newton's Rings experimental data using Linear Regression.
